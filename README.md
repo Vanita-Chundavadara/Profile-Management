@@ -27,7 +27,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built w
 
 1. Clone the Repository
 
-git clone https://github.com/Vanita-Chundavadara/Profile-management-system.git
+git clone https://github.com/Vanita-Chundavadara/Profile-Management.git
 cd react-crud-app
 
 2. install dependency
